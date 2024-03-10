@@ -1,4 +1,4 @@
-package lectures
+package lecturesChapter2
 
 object Functions extends App {
     def greetFunction(name: String, age: Int): String = {

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf9a2c-b805-4687-93a6-e604ed96e7cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/CallByNameVsCallByVaule.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Expressions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/ValuesVariablesTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/ValuesVariablesTypes.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +72,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CallByNameVsCallByVaule.executor": "Run",
+    "Application.DefaultArgs.executor": "Run",
     "Application.Expressions.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Playground.executor": "Run",
     "Application.Recursion.executor": "Run",
+    "Application.StringOps.executor": "Run",
     "Application.ValuesVariablesTypes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,13 +96,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Recursion">
+  <component name="RunManager">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.Expressions" />
+      <option name="MAIN_CLASS_NAME" value="lecturesChapter2.Expressions" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.*" />
+          <option name="PATTERN" value="lecturesChapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.Functions" />
+      <option name="MAIN_CLASS_NAME" value="lecturesChapter2.Functions" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.*" />
+          <option name="PATTERN" value="lecturesChapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.Recursion" />
+      <option name="MAIN_CLASS_NAME" value="lecturesChapter2.Recursion" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.*" />
+          <option name="PATTERN" value="lecturesChapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="ValuesVariablesTypes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.ValuesVariablesTypes" />
+      <option name="MAIN_CLASS_NAME" value="lecturesChapter2.ValuesVariablesTypes" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.*" />
+          <option name="PATTERN" value="lecturesChapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,7 +175,7 @@
       <updated>1709728774660</updated>
       <workItem from="1709728776154" duration="245000" />
       <workItem from="1709729112477" duration="9627000" />
-      <workItem from="1710070922275" duration="2074000" />
+      <workItem from="1710070922275" duration="5482000" />
     </task>
     <servers />
   </component>

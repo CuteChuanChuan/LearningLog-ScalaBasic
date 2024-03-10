@@ -1,4 +1,4 @@
-package lectures
+package lecturesChapter2
 
 object ValuesVariablesTypes extends App {
     // val is immutable and type of it is optional
