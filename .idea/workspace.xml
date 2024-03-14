@@ -5,12 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf9a2c-b805-4687-93a6-e604ed96e7cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/CallByNameVsCallByVaule.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/MethodNotations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/OOBasis.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/OOBasisExercise.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Expressions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Recursion.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/ValuesVariablesTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/ValuesVariablesTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/CallByNameVsCallByVaule$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/CallByNameVsCallByVaule$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/CallByNameVsCallByVaule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/DefaultArgs$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/DefaultArgs$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/DefaultArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Expressions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Expressions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Expressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Functions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Functions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Recursion$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Recursion$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/StringOps$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/StringOps$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/StringOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/ValuesVariablesTypes$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/ValuesVariablesTypes$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectures/ValuesVariablesTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/CallByNameVsCallByVaule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/CallByNameVsCallByVaule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/DefaultArgs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/DefaultArgs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/Expressions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/StringOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/StringOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturesChapter2/ValuesVariablesTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter2/ValuesVariablesTypes.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +102,8 @@
     "Application.DefaultArgs.executor": "Run",
     "Application.Expressions.executor": "Run",
     "Application.Functions.executor": "Run",
+    "Application.OOBasis.executor": "Run",
+    "Application.OOBasisExercise.executor": "Run",
     "Application.Playground.executor": "Run",
     "Application.Recursion.executor": "Run",
     "Application.StringOps.executor": "Run",
@@ -175,7 +203,7 @@
       <updated>1709728774660</updated>
       <workItem from="1709728776154" duration="245000" />
       <workItem from="1709729112477" duration="9627000" />
-      <workItem from="1710070922275" duration="5482000" />
+      <workItem from="1710070922275" duration="16925000" />
     </task>
     <servers />
   </component>
