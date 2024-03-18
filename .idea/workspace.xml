@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf9a2c-b805-4687-93a6-e604ed96e7cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/MethodNotationsExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/InheritanceAndTraits.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations$delayedInit$body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/MethodNotations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/MethodNotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectutes/lecturesChapter3/MethodNotations.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +72,7 @@
     "Application.DefaultArgs.executor": "Run",
     "Application.Expressions.executor": "Run",
     "Application.Functions.executor": "Run",
+    "Application.InheritanceAndTraits.executor": "Run",
     "Application.MethodNotations.executor": "Run",
     "Application.MethodNotationsExercise.executor": "Run",
     "Application.OOBasis.executor": "Run",
@@ -105,7 +100,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MethodNotationsExercise">
+  <component name="RunManager" selected="Application.InheritanceAndTraits">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lecturesChapter2.Expressions" />
       <module name="udemy-scala-begin" />
@@ -119,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturesChapter2.Functions" />
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectutes.lecturesChapter3.InheritanceAndTraits" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecturesChapter2.*" />
+          <option name="PATTERN" value="lectutes.lecturesChapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.MethodNotationsExercise" />
         <item itemvalue="Application.MethodNotations" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +219,7 @@
       <workItem from="1710070922275" duration="18276000" />
       <workItem from="1710521311002" duration="571000" />
       <workItem from="1710579620632" duration="733000" />
-      <workItem from="1710580961077" duration="5487000" />
+      <workItem from="1710580961077" duration="8090000" />
     </task>
     <servers />
   </component>
