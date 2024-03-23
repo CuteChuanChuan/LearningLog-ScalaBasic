@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf9a2c-b805-4687-93a6-e604ed96e7cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercise/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Carnivore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Carnivore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Crocodile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes$Crocodile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-scala-begin/lectutes/lecturesChapter3/AbstractDataTypes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +82,7 @@
     "Application.Playground.executor": "Run",
     "Application.Recursion.executor": "Run",
     "Application.StringOps.executor": "Run",
+    "Application.UnderstandObject.executor": "Run",
     "Application.ValuesVariablesTypes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,13 +103,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.GenericListTest">
     <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectutes.lecturesChapter3.AbstractDataTypes" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lectutes.lecturesChapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.GenericListTest" />
+      <module name="udemy-scala-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,21 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectutes.lecturesChapter3.MethodNotations" />
-      <module name="udemy-scala-begin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectutes.lecturesChapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodNotationsExercise" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectutes.lecturesChapter3.MethodNotationsExercise" />
+    <configuration name="UnderstandObject" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectutes.lecturesChapter3.UnderstandObject" />
       <module name="udemy-scala-begin" />
       <extension name="coverage">
         <pattern>
@@ -175,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericListTest" />
+        <item itemvalue="Application.UnderstandObject" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.AbstractDataTypes" />
         <item itemvalue="Application.InheritanceAndTraits" />
-        <item itemvalue="Application.MethodNotationsExercise" />
-        <item itemvalue="Application.MethodNotations" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +222,7 @@
       <workItem from="1710070922275" duration="18276000" />
       <workItem from="1710521311002" duration="571000" />
       <workItem from="1710579620632" duration="733000" />
-      <workItem from="1710580961077" duration="22878000" />
+      <workItem from="1710580961077" duration="27149000" />
     </task>
     <servers />
   </component>
